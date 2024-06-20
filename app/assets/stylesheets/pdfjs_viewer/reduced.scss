@@ -1,10 +1,31 @@
+@import 'full';
+
+@include fullStyles;
+
 #pdfjs_viewer-reduced {
-  .openFile { display: none; }
-  .bookmark { display: none; }
   #viewThumbnail { display: none; }
   #viewOutline { display: none; }
   #viewAttachments { display: none; }
-  #download { display: none; }
   #secondaryToolbarToggle { display: none; }
   #toolbarViewerRight div.verticalToolbarSeparator { display: none; }
+
+  body {
+    overflow-y: scroll;
+
+    &::-webkit-scrollbar {
+      width: 10px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: #f1f1f1;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: #888;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+      background: #555;
+    }
+  }
 }

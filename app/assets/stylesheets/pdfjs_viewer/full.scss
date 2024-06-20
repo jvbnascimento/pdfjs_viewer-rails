@@ -1,5 +1,22 @@
-#pdfjs_viewer-full {
-  .openFile { display: none; }
+@mixin fullStyles {
+  #openFile { display: none; }
+  #secondaryOpenFile { display: none; }
 
-  .bookmark { display: none; }
+  #download { display: none; }
+  #secondaryDownload { display: none; }
+
+  #print { display: none; }
+  #secondaryPrint { display: none; }
+
+  #editorFreeText { display: none; }
+
+  #editorInk { display: none; }
+
+  #editorStamp { display: none; }
+
+  #toolbarViewerRight div.verticalToolbarSeparator { display: none; }
+
+  #documentProperties { display: none; }
+
+  #presentationMode { display: none; }
 }
