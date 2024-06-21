@@ -2086,24 +2086,24 @@
   --toolbarButton-editorFreeText-icon: url(/pdfjs/web/images/toolbarButton-editorFreeText.svg);
   --toolbarButton-editorInk-icon: url(/pdfjs/web/images/toolbarButton-editorInk.svg);
   --toolbarButton-editorStamp-icon: url(/pdfjs/web/images/toolbarButton-editorStamp.svg);
-  --toolbarButton-menuArrow-icon: url(/pdfjs/web/images/toolbarButton-menuArrow.svg);
-  --toolbarButton-sidebarToggle-icon: url(/pdfjs/web/images/toolbarButton-sidebarToggle.svg);
-  --toolbarButton-secondaryToolbarToggle-icon: url(/pdfjs/web/images/toolbarButton-secondaryToolbarToggle.svg);
+  --toolbarButton-menuArrow-icon: url(/pdfjs/web/images/toolbarButton-menuArrows.png);
+  --toolbarButton-sidebarToggle-icon: url(/pdfjs/web/images/toolbarButton-sidebarToggle.png);
+  --toolbarButton-secondaryToolbarToggle-icon: url(/pdfjs/web/images/toolbarButton-secondaryToolbarToggle.png);
   --toolbarButton-pageUp-icon: url(/pdfjs/web/images/toolbarButton-pageUp.svg);
-  --toolbarButton-pageDown-icon: url(/pdfjs/web/images/toolbarButton-pageDown.svg);
-  --toolbarButton-zoomOut-icon: url(/pdfjs/web/images/toolbarButton-zoomOut.svg);
-  --toolbarButton-zoomIn-icon: url(/pdfjs/web/images/toolbarButton-zoomIn.svg);
-  --toolbarButton-presentationMode-icon: url(/pdfjs/web/images/toolbarButton-presentationMode.svg);
+  --toolbarButton-pageDown-icon: url(/pdfjs/web/images/toolbarButton-pageDown.png);
+  --toolbarButton-zoomOut-icon: url(/pdfjs/web/images/toolbarButton-zoomOut.png);
+  --toolbarButton-zoomIn-icon: url(/pdfjs/web/images/toolbarButton-zoomIn.png);
+  --toolbarButton-presentationMode-icon: url(/pdfjs/web/images/toolbarButton-presentationMode.png);
   --toolbarButton-print-icon: url(/pdfjs/web/images/toolbarButton-print.svg);
   --toolbarButton-openFile-icon: url(/pdfjs/web/images/toolbarButton-openFile.svg);
   --toolbarButton-download-icon: url(/pdfjs/web/images/toolbarButton-download.svg);
   --toolbarButton-bookmark-icon: url(/pdfjs/web/images/toolbarButton-bookmark.svg);
-  --toolbarButton-viewThumbnail-icon: url(/pdfjs/web/images/toolbarButton-viewThumbnail.svg);
-  --toolbarButton-viewOutline-icon: url(/pdfjs/web/images/toolbarButton-viewOutline.svg);
-  --toolbarButton-viewAttachments-icon: url(/pdfjs/web/images/toolbarButton-viewAttachments.svg);
-  --toolbarButton-viewLayers-icon: url(/pdfjs/web/images/toolbarButton-viewLayers.svg);
+  --toolbarButton-viewThumbnail-icon: url(/pdfjs/web/images/toolbarButton-viewThumbnail.png);
+  --toolbarButton-viewOutline-icon: url(/pdfjs/web/images/toolbarButton-viewOutline.png);
+  --toolbarButton-viewAttachments-icon: url(/pdfjs/web/images/toolbarButton-viewAttachments.png);
+  --toolbarButton-viewLayers-icon: url(/pdfjs/web/images/toolbarButton-viewLayers.png);
   --toolbarButton-currentOutlineItem-icon: url(/pdfjs/web/images/toolbarButton-currentOutlineItem.svg);
-  --toolbarButton-search-icon: url(/pdfjs/web/images/toolbarButton-search.svg);
+  --toolbarButton-search-icon: url(/pdfjs/web/images/toolbarButton-search.png);
   --findbarButton-previous-icon: url(/pdfjs/web/images/findbarButton-previous.svg);
   --findbarButton-next-icon: url(/pdfjs/web/images/findbarButton-next.svg);
   --secondaryToolbarButton-firstPage-icon: url(/pdfjs/web/images/secondaryToolbarButton-firstPage.svg);
@@ -2120,7 +2120,7 @@
   --secondaryToolbarButton-spreadOdd-icon: url(/pdfjs/web/images/secondaryToolbarButton-spreadOdd.svg);
   --secondaryToolbarButton-spreadEven-icon: url(/pdfjs/web/images/secondaryToolbarButton-spreadEven.svg);
   --secondaryToolbarButton-documentProperties-icon: url(/pdfjs/web/images/secondaryToolbarButton-documentProperties.svg);
-  --editorParams-stampAddImage-icon: url(/pdfjs/web/images/toolbarButton-zoomIn.svg);
+  --editorParams-stampAddImage-icon: url(/pdfjs/web/images/toolbarButton-zoomIn.png);
   --download-pdf-button: url('/pdfjs/web/images/pdf_download_gray.png');
 }
 
