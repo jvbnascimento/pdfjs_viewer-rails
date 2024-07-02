@@ -5898,7 +5898,7 @@
       kind: OptionKind.VIEWER
     };
     defaultOptions.sandboxBundleSrc = {
-      value: "../build/pdf.sandbox.js",
+      value: "/pdfjs/build/pdf.sandbox.js",
       kind: OptionKind.VIEWER
     };
   }
